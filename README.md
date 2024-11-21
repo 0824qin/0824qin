@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-0824qin/0824qin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+一个用C来写的打乱排序的选择题，
+不含有任何第三库
+看了即会，大一学习C语言的同学，学过判断和循环函数，数组就可以试试写一下
+本人也是大一.
 --->
